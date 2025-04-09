@@ -1,0 +1,37 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the assignment.
+
+    Good luck, and have fun!
+*/
+
+#pick1 {
+    width: 100px;
+    margin-top:50px;
+    border: 10px solid black;
+    padding: 8px;
+    background-color: antiquewhite;
+}
+
+#pick2 {
+    width: 100px;
+    margin-top: 50px;
+    border: 10px solid black;
+    padding: 8px;
+    background-color:grey;
+}
+
+#pick3 {
+    width: 50px;
+}
+
+#War {
+    background-color: white;
+    border: 3px solid black;
+    transform: rotate(30deg);
+    padding:20px;
+    width: 100px;
+    margin-bottom:50px;
+}
