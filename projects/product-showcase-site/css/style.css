@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.bodybytph {
+    background-color: saddlebrown;
+    text-align: center;
+}
+
+#pick1 {
+    width: 50%;
+}
+
+.softerthannootha {
+    background-color:antiquewhite;
+    text-align: left;
+}
+
+#pick2 {
+    width:65%;
+}
+
+.anythingglows {
+    background-color:sienna;
+    text-align:left;
+}
+
+#pick3 {
+    width:65%;
+}
