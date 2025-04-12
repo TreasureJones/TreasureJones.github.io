@@ -20,5 +20,5 @@ body {
 #main-content {
     background-color: lightgreen;
     flex: 1;
-    order: 1;
+    order: 1 5;
 }
