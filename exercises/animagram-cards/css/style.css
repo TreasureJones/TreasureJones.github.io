@@ -1,0 +1,41 @@
+/*
+    Write your CSS for the assignment here.
+
+    You shouldn't need to modify the HTML;
+    however, you are allowed to. 
+    
+    Just be aware that you may break some
+    of the setup.css styling if you do so.
+*/
+.card-style-2 {
+    width: 350px;
+    flex-direction: column;
+    margin-right: 15px;
+    margin-bottom: -20px;
+    margin-top: 15px;
+}
+
+.card-style-2 {
+    border: 5px solid #FFFFFF;
+    display: flex;
+    margin: 48px auto;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.card-style-2 {
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    padding:  20px;
+    font-weight: 1px;
+}
+
+#side-by-side-container .image-container 
+#side-by-side-container .text-container {
+    flex: 1;
+}
+
+#side-by-side-container .image-container img {
+    width: 100%;
+}
