@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#hero-1 {
+    background-image: url("../images/europeana-DtUGogr4uQQ-unsplash.jpg");
+    height: 100vh;
+    background-size:cover;
+    background-position: center center;
+    display:center flex;
+}
+
+#hero-1 h1 {
+    color: grey;
+}
+
+#hero-1 h4 {
+    color: grey;
+}
+
+#hero-2 {
+    background-image: url("../images/ferran-fusalba-rosello-e6_sMm6zqfA-unsplash.jpg");
+    height: 100vh;
+    background-size:cover;
+    background-position: center center;
+    display:center flex;
+}
+
+#hero-2 h1 {
+    color: white;
+}
+
+#hero-2 {
+    background-image: url("../images/ferran-fusalba-rosello-e6_sMm6zqfA-unsplash.jpg");
+    height: 100vh;
+    background-size:cover;
+    background-position: center center;
+    display:center flex;
+}
+
+#hero-2 h1 {
+    color: black;
+}
+
+#hero-2 h4 {
+    color: grey;
+}
+
+#hero-3 {
+    background-image: url("../images/the-cleveland-museum-of-art-81v744Wf4hs-unsplash.jpg");
+    height: 100vh;
+    background-size:cover;
+    background-position: center center;
+    display:center flex;
+}
+
+#hero-3 h1 {
+    color: white;
+}
+
+#hero-3 h2 {
+    color: white;
+}
