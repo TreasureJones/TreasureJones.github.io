@@ -52,7 +52,7 @@ body {
 }
 
 #card2:hover a {
-    background-color: antiquewhite;
+    background-color: lightgreen;
     box-shadow: 4px 4px 4px #00000033;
     transform: translateY(-4px);
 }
