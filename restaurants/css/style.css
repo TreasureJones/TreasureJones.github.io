@@ -17,7 +17,7 @@ body {
 #navbar a {
     text-decoration: none;
     color: green;
-    padding: 24px;
+    padding: 16px;
 }
 
 #navbar #logo img {
@@ -28,12 +28,12 @@ body {
     background-color: lightgreen;
     color: green;
     border-radius: 6px;
-    padding: 16px 24px;
+    padding: 12px 12px;
     font-size: 20px;
     font-weight: bold;
     min-width: 150px;
     text-align: center;
-    margin-right: 24px;
+    margin-right: 12px;
 }
 
 #hero-1 {
@@ -57,4 +57,35 @@ body {
     color: green;
     padding: 16px 16px;
     border-radius: 10px;
+    text-align: center;
 }
+
+#hero-2 {
+    background-image: url(../images/B50977BB-749E-4F4A-A508-B821DE55CD00_1_201_a.jpeg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero-2 .hero-content2 {
+    text-align: center;
+    color: white;
+    padding: 100px;
+}
+
+.content {
+    background-color: white;
+    color: green;
+    padding: 16px 16px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.content p {
+    color: black;
+    flex: 1;
+}
+
