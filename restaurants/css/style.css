@@ -89,3 +89,10 @@ body {
     flex: 1;
 }
 
+.content1 {
+    background-color: white;
+    color: green;
+    padding: 16px 16px;
+    border-radius: 10px;
+    text-align: center;
+}
