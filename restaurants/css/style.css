@@ -62,7 +62,6 @@ body {
 
 #hero-2 {
     background-image: url(../images/B50977BB-749E-4F4A-A508-B821DE55CD00_1_201_a.jpeg);
-    height: 100vh;
     background-size: cover;
     background-position: center center;
     display: flex;
@@ -89,10 +88,45 @@ body {
     flex: 1;
 }
 
-.content1 {
-    background-color: white;
-    color: green;
+
+.content2 {
+    background-color: green;
+    color: white;
     padding: 16px 16px;
     border-radius: 10px;
     text-align: center;
+}
+
+.basic-grid-gallery {
+    display:  grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 24px;
+    border: 10px solid #ffffff;
+}
+
+.basic-grid-gallery img {
+    width: 100%;
+}
+
+.basic-grid-gallery p {
+    color: white;
+    text-align: center;
+}
+
+#footer {
+    background: green;
+    color: white;
+    padding: 12px;
+}
+
+#footer a {
+    text-decoration: none;
+    color: white;
+}
+
+#footer-navbar {
+    width: 800px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
 }
