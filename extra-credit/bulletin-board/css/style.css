@@ -1,0 +1,56 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the Bulletin Board assignment.
+
+    Good luck, and have fun!
+*/
+
+.post-it {
+    width: 200px;
+    background-color: lightblue;
+    display: inline-block;
+    margin: 24px;
+    padding: 24px;
+}
+
+.post-it-2 {
+    width: 200px;
+    background-color: white;
+    color: pink;
+    display: inline-block;
+    margin: 24px;
+    padding: 24px;
+}
+
+.post-it-3 {
+    width: 200px;
+    background-color: black;
+    color: lightblue;
+    display: inline-block;
+    margin: 24px;
+    padding: 24px;
+}
+
+.post-it-4 {
+    width: 200px;
+    background-color: peachpuff;
+    color: orangered;;
+    display: inline-block;
+    margin: 24px;
+    padding: 24px;
+}
+
+.post-it-5 {
+    width: 200px;
+    background-color: brown;
+    color: white;;
+    display: inline-block;
+    margin: 24px;
+    padding: 24px;
+}
+
+.post-it-5 h3 {
+    text-align: center;
+}
